@@ -1,4 +1,4 @@
-📅 Week 2 — Data Visualization, Feature Engineering, PCA & Imbalanced Data
+# Week 2 — Data Visualization, Feature Engineering, PCA & Imbalanced Data
 ## Day 4
 
 ### Data Visualization
