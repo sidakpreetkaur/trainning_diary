@@ -24,12 +24,6 @@ columns
 info()
 describe()
 
-Practical work:
-
-Loaded the Superstore dataset
-Examined the structure and data types
-Identified important columns such as Sales, Profit, Quantity, Discount, Category, Region, and Sub-Category
-Performed basic calculations and data exploration using Pandas
 Day 2 — Data Cleaning
 
 Topics covered:
@@ -48,16 +42,6 @@ Outlier detection using:
 Boxplots
 IQR method
 
-Practical work on Superstore dataset:
-
-Checked missing values
-Removed duplicate records
-Standardized categorical data
-Converted Order Date and Ship Date into datetime format
-Calculated shipping duration
-Identified abnormal shipping times
-Detected outliers in Sales, Profit, Quantity, and Discount
-Cleaned the dataset for further analysis
 Day 3 — Exploratory Data Analysis (EDA)
 
 Topics covered:
@@ -71,13 +55,3 @@ GroupBy operations
 Sorting and filtering data
 Correlation analysis
 Identifying relationships between variables
-
-Practical work:
-
-Analyzed total Sales and Profit
-Studied Sales and Profit by Category
-Analyzed performance of Sub-Categories
-Compared Regional performance
-Studied the effect of Discount on Profit
-Analyzed Quantity and Sales relationships
-Identified profitable and loss-making segments
