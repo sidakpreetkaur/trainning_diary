@@ -1,1 +1,83 @@
-data
+📅 Week 1 — Python Foundations, Data Cleaning & EDA
+Day 1 — Python Foundations for Data Analytics
+
+Topics covered:
+
+Introduction to Python and its importance in Data Analytics
+Python variables and basic data types:
+Integer
+Float
+String
+Boolean
+Python operators and conditional statements
+Lists, tuples, dictionaries, and sets
+Loops and basic functions
+Working with Python libraries used in data analysis
+Introduction to NumPy and Pandas
+Understanding Series and DataFrames
+Reading CSV datasets using Pandas
+Inspecting datasets using:
+head()
+tail()
+shape
+columns
+info()
+describe()
+
+Practical work:
+
+Loaded the Superstore dataset
+Examined the structure and data types
+Identified important columns such as Sales, Profit, Quantity, Discount, Category, Region, and Sub-Category
+Performed basic calculations and data exploration using Pandas
+Day 2 — Data Cleaning
+
+Topics covered:
+
+Understanding data cleaning and why it is important
+Detecting missing values using isnull()
+Handling missing values using appropriate techniques
+Detecting duplicate records
+Removing duplicate rows
+Standardizing text values
+Converting columns into appropriate data types
+Working with date columns
+Detecting inconsistent and incorrect data
+Understanding outliers
+Outlier detection using:
+Boxplots
+IQR method
+
+Practical work on Superstore dataset:
+
+Checked missing values
+Removed duplicate records
+Standardized categorical data
+Converted Order Date and Ship Date into datetime format
+Calculated shipping duration
+Identified abnormal shipping times
+Detected outliers in Sales, Profit, Quantity, and Discount
+Cleaned the dataset for further analysis
+Day 3 — Exploratory Data Analysis (EDA)
+
+Topics covered:
+
+Meaning and importance of Exploratory Data Analysis
+Univariate analysis
+Bivariate analysis
+Multivariate analysis
+Statistical summaries
+GroupBy operations
+Sorting and filtering data
+Correlation analysis
+Identifying relationships between variables
+
+Practical work:
+
+Analyzed total Sales and Profit
+Studied Sales and Profit by Category
+Analyzed performance of Sub-Categories
+Compared Regional performance
+Studied the effect of Discount on Profit
+Analyzed Quantity and Sales relationships
+Identified profitable and loss-making segments
