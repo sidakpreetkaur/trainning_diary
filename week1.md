@@ -1,57 +1,71 @@
-📅 Week 1 — Python Foundations, Data Cleaning & EDA
-Day 1 — Python Foundations for Data Analytics
+# Week 1 — Python Foundations, Data Cleaning & EDA
 
-Topics covered:
+## Day 1
 
-Introduction to Python and its importance in Data Analytics
-Python variables and basic data types:
-Integer
-Float
-String
-Boolean
-Python operators and conditional statements
-Lists, tuples, dictionaries, and sets
-Loops and basic functions
-Working with Python libraries used in data analysis
-Introduction to NumPy and Pandas
-Understanding Series and DataFrames
-Reading CSV datasets using Pandas
-Inspecting datasets using:
-head()
-tail()
-shape
-columns
-info()
-describe()
+### Python Foundations for Data Analytics
 
-Day 2 — Data Cleaning
+**Topics covered:**
 
-Topics covered:
+- Introduction to Python for Data Analytics
+- Python variables and data types
+- Integer (`int`)
+- Float (`float`)
+- String (`str`)
+- Boolean (`bool`)
+- Python operators
+- Conditional statements
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Loops
+- Functions
+- Introduction to NumPy
+- Introduction to Pandas
+- Understanding Pandas Series
+- Understanding Pandas DataFrames
+- Reading CSV files using Pandas
+- Inspecting datasets using `head()`, `tail()`, `shape`, `columns`, `info()`, and `describe()`
 
-Understanding data cleaning and why it is important
-Detecting missing values using isnull()
-Handling missing values using appropriate techniques
-Detecting duplicate records
-Removing duplicate rows
-Standardizing text values
-Converting columns into appropriate data types
-Working with date columns
-Detecting inconsistent and incorrect data
-Understanding outliers
-Outlier detection using:
-Boxplots
-IQR method
+## Day 2
 
-Day 3 — Exploratory Data Analysis (EDA)
+### Data Cleaning
 
-Topics covered:
+**Topics covered:**
 
-Meaning and importance of Exploratory Data Analysis
-Univariate analysis
-Bivariate analysis
-Multivariate analysis
-Statistical summaries
-GroupBy operations
-Sorting and filtering data
-Correlation analysis
-Identifying relationships between variables
+- Introduction to data cleaning
+- Importance of clean data in Data Analytics
+- Identifying missing values
+- Handling missing values
+- Removing unnecessary rows
+- Filling missing values using mean, median, and mode
+- Detecting duplicate records
+- Removing duplicate records
+- Standardizing text values
+- Removing extra spaces
+- Converting columns into appropriate data types
+- Working with date columns
+- Detecting inconsistent data
+- Understanding outliers
+- Outlier detection using boxplots
+- Outlier detection using the IQR method
+
+  ## Day 3
+
+### Exploratory Data Analysis (EDA)
+
+**Topics covered:**
+
+- Introduction to Exploratory Data Analysis
+- Importance of EDA
+- Univariate analysis
+- Bivariate analysis
+- Multivariate analysis
+- Descriptive statistics
+- Mean, median, mode, minimum, and maximum
+- GroupBy operations
+- Sorting data
+- Filtering data
+- Correlation analysis
+- Understanding relationships between variables
+
